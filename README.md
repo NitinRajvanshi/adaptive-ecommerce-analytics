@@ -87,3 +87,15 @@ adaptive-ecommerce-analytics/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
+🎯 Objective
+
+The objective of this project is to build a reusable e-commerce analytics platform that separates the complete workflow into:
+
+Data Engineering → Data Quality → Database → SQL Analytics → Business Intelligence → Visualization
+
+The project demonstrates practical skills in ETL, Python, SQL, data validation, database management, analytics, customer segmentation, performance analysis, and business intelligence.
+
+👨‍💻 Author
+
+Nitin Rajvanshi
