@@ -4,7 +4,7 @@ An end-to-end data engineering and analytics platform that transforms raw e-comm
 
 ## 🚀 Live Application
 
-[Open the Live Application](https://adaptive-ecommerce-analytics-h8hs9eoeyoyaqbwqetfgv.streamlit.app/)
+[Open the Live Application](https://adaptive-ecommerce-analytics-h8hs9eoveyyoaqbwqetfgv.streamlit.app/)
 
 ## 📌 Overview
 
